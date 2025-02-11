@@ -26,9 +26,7 @@ git clone https://github.com/AzeemAnsari/news-aggregator.git<br>cd news-aggregat
 npm install
 
 ### 3 **Create .env File for API Keys**
-VITE_NEWS_API_KEY=your_newsapi_key
-VITE_GUARDIAN_API_KEY=your_guardian_key
-VITE_NYT_API_KEY=your_nyt_key
+VITE_NEWS_API_KEY=your_newsapi_key<br>VITE_GUARDIAN_API_KEY=your_guardian_key<br>VITE_NYT_API_KEY=your_nyt_key
 
 npm run dev
 
