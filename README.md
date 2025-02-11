@@ -20,8 +20,7 @@ A React-based news aggregator app that fetches news from **The Guardian, New Yor
 ## 🛠️ Installation
 
 ### 1 **Clone the repository**
-git clone https://github.com/AzeemAnsari/news-aggregator.git
-cd news-aggregator
+git clone https://github.com/AzeemAnsari/news-aggregator.git<br>cd news-aggregator
 
 ### 2 **Install Dependencies**
 npm install
@@ -36,9 +35,7 @@ npm run dev
 The app will run on http://localhost:5173 🚀
 
 API	Documentation URL
-📰 NewsAPI.org - https://newsapi.org/docs
-🗞 NYTimes API - https://developer.nytimes.com/apis
-🏛 The Guardian API	- https://open-platform.theguardian.com/documentation/
+📰 NewsAPI.org - https://newsapi.org/docs<br>🗞 NYTimes API - https://developer.nytimes.com/apis<br>🏛 The Guardian API	- https://open-platform.theguardian.com/documentation/
 
 
 
